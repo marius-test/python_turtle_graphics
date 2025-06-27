@@ -1,5 +1,17 @@
-# turtle_graphics2
+# python_turtle_graphics
 
-Fractals generation in **Python**, using the *turtle* library.
+This repository demonstrates fractal generation in **Python** using the built-in *turtle* library.
 
-Library: *turtle*
+### Included Fractals
+
+- Colorful spiral  
+- Dragon curve  
+- Tree (3 versions)  
+- Honeycomb  
+- Koch snowflake  
+- Sierpinski triangle  
+- Square spiral  
+
+### Library Used
+
+- `turtle` (built-in Python library for simple graphics)
