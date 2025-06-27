@@ -15,3 +15,5 @@ This repository demonstrates fractal generation in **Python** using the built-in
 ### Library Used
 
 - `turtle` (built-in Python library for simple graphics)
+
+> **Disclaimer:** This project was initially based on a tutorial, but the code has been **heavily modified** to improve functionality, add new fractals, and optimize performance.
