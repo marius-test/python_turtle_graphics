@@ -6,7 +6,8 @@ This repository demonstrates fractal generation in **Python** using the built-in
 
 - Colorful spiral  
 - Dragon curve  
-- Tree (3 versions)  
+- Tree (2 versions)
+- Tree with backgound  
 - Honeycomb  
 - Koch snowflake  
 - Sierpinski triangle  
