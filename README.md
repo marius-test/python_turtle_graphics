@@ -1,4 +1,4 @@
-# python_turtle_graphics
+# turtle_graphics
 
 This repository demonstrates fractal generation in **Python** using the built-in *turtle* library.
 
