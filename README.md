@@ -13,7 +13,7 @@ This repository demonstrates fractal generation in **Python** using the built-in
 - Sierpinski triangle  
 - Square spiral  
 
-### Library Used
+### Library
 
 - `turtle` (built-in Python library for simple graphics)
 
